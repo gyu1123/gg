@@ -1,2 +1,2 @@
-#  mine
- <p>저장소 생성과 지역과 원격저장소 연동</p1>
+#  rpsync
+ <p>원격(remote)과 지역(local) 저장소(repository) 연동(syncronization)</p1>
